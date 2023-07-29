@@ -4,7 +4,7 @@
 ## Clone the Repository:
 ### ->Go to the GitHub repository link (https://github.com/PRIYANSHU7763/iNotebook) and clone the repository to your local machine using Git. Use the following command in your terminal or command prompt:
 
-Bash Command:
+### Bash Command:
 `git clone https://github.com/PRIYANSHU7763/iNotebook.git`
 
 ## Install Packages:
